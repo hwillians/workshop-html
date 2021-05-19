@@ -1,0 +1,14 @@
+ol {
+    list-style-type: lower-greek;
+}
+dl{
+    margin: 10px 0 10px 0;
+}
+
+dd {
+    font-style: italic;
+}
+
+dt {
+    font-weight: bold;
+}
